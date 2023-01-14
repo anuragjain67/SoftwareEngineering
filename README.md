@@ -1,2 +1,9 @@
 # SoftwareEngineering
-Roadmap for TA &amp; EM
+Topics you should know as TA &amp; EM
+
+
+# Architect/EM
+![plot](./MindMapArchitect.jpg) 
+
+# To Deliver an App
+![plot](./MindMap.jpg)
